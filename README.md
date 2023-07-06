@@ -1,10 +1,12 @@
 # nx-log-cli
 
-log for nx
+log-cli for nx
 
 
 > composer require urn2/nx-log-cli
 
 ```
-$this->log($labelOrVar, ...$var);
+use \nx\parts\log\cli; 
+
+$this->log('ok');
 ```

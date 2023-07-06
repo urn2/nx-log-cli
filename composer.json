@@ -12,9 +12,12 @@
   ],
   "require": {
     "php": ">=8.2",
-    "urn2/nx": ">=1.2"
+    "urn2/nx-log": "^0.0.2"
   },
-  "minimum-stability": "stable",
+  "require-dev": {
+    "urn2/nx": "^1.2.6"
+  },
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "nx\\parts\\log\\": [
