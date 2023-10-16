@@ -1,7 +1,7 @@
 {
-  "name": "urn2/nx-log-cli",
+  "name": "veasin/nx-log-cli",
   "description": "log for nx",
-  "homepage": "https://github.com/urn2/nx",
+  "homepage": "https://github.com/veasin/nx",
   "type": "framework",
   "authors": [
     {
@@ -12,10 +12,10 @@
   ],
   "require": {
     "php": ">=8.2",
-    "urn2/nx-log": "^0.0.2"
+    "veasin/nx-log": "^0.0.2"
   },
   "require-dev": {
-    "urn2/nx": "^1.2.6"
+    "veasin/nx": "^1.2.6"
   },
   "minimum-stability": "dev",
   "autoload": {
